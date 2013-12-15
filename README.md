@@ -6,7 +6,7 @@ Rename the current workspace in Xfce, via a simple text box.
 Requirements
 ------------
 
-You need the following 2 tools installed
+You need the following installed
 
 1. wmctrl (tested with 1.07)
 
@@ -15,19 +15,19 @@ You need the following 2 tools installed
 Installation
 ------------
 
-sudo cp rename-xfce-workspace /usr/bin
+$ sudo cp rename-xfce-workspace /usr/bin
 
 Usage
 -----
 
 Just call
 
-rename-xfce-workspace
+$ rename-xfce-workspace
 
 without arguments. It will open up a text box where you can change the
 workspace name.
 
-You can bind program that with a shortcut key using Xfce Keyboard
+You can bind that program with a shortcut key using Xfce Keyboard
 settings panel to rename your workspace at lightening speed.
 
 Author
