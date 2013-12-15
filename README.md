@@ -15,14 +15,14 @@ You need the following installed
 Installation
 ------------
 
-$ sudo cp rename-xfce-workspace /usr/bin
+    $ sudo cp rename-xfce-workspace /usr/bin
 
 Usage
 -----
 
 Just call
 
-$ rename-xfce-workspace
+    $ rename-xfce-workspace
 
 without arguments. It will open up a text box where you can change the
 workspace name.
